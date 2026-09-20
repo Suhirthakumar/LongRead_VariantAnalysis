@@ -1,6 +1,7 @@
 <div align="center">
 
 # LongRead Variant Analysis
+### Dr Suhirthakumar Puvanendran
 
 ### Reproducible Oxford Nanopore long-read variant calling and benchmarking with Nextflow
 
